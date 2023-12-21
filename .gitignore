@@ -1,3 +1,11 @@
+node_modules
+coverage
+config.json
+*.log
+*.png
+.env
+assets
+
 # Logs
 logs
 *.log
@@ -128,3 +136,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+src/_modules/parsed-test-data.json
+src/challange-test-data.json
